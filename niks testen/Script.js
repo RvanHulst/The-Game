@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="nl">
-<head>
-<title>game</title>
-<meta charset="utf-8">
-<link rel="javascript" type="text/javascript" href="JavaScript/javascript.js">
-</head>
-<body>
-<img src="img/wallpaper_horror_animaatjes-35.jpg">
-<background-size: cover;>
-<script type="text/javascript">
-alert ("bijna alle landen zijn gevallen waaronder de Grootste land die iedereen hielp -Amerika-   , Rusland is de engiste die nog ruzie zoekt met de landen die er nog bestaan en ook het land waar jij in zit ze driegen met land invatie's of nucliare bommen de Russen staan al aan de grenzen van je buurtlanden! Je liep buiten te praten met wat vrienden toen je iemand hoorde schreeuwen en iets heel hard tegen je hoofd kreeg (klik oke om verder te gaan) ")
 var begin = prompt ("je wordt wakker in een kamer er gaat een telefoon af neem je hem op (ja of nee)");
 
 var Yes = "ja";
@@ -18,7 +6,6 @@ var No = "nee";
 
 if (begin == Yes) {
 var a2 = prompt ("de stem verteld dat jij laatse hoop bent gooi je de nucliare bommen?");
-
 }
 if (a2 == Yes) {
 var ce = prompt ("weet u het zeker?");
@@ -72,8 +59,4 @@ alert ("u was te laat u bent dood2.0")
 if (t2 == No) {
 alert ("u bent te laat, hz neem je wel telefoon op maar help je niet?")
 }
-</script>
 
-
-</body>
-</html>
